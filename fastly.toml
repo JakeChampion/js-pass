@@ -6,7 +6,7 @@ description = ""
 language = "javascript"
 manifest_version = 2
 name = "javascript"
-service_id = "rKKHanY5QNfRmKvkDLKPm3"
+service_id = ""
 
 [local_server]
 
